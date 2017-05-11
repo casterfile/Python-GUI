@@ -8,7 +8,6 @@ Python3 Python-GUI Development... :D </br>
 This application is free of virus or malware </br>
 
 <h3>Software Requirment </h3>
-Networking Tools<br/>
 Python 3.X<br/>
 
 
